@@ -1,0 +1,4 @@
+slownik-rymow
+=============
+
+Słownik rymów
