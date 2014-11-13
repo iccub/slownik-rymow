@@ -33,7 +33,7 @@ body a{
 ul.big-btns{
 	margin:0;
 	padding:0;
-} 
+}
 ul.big-btns li{
 	list-style:none;
 	display:inline-block;
@@ -52,12 +52,12 @@ ul.big-btns li a{
 }
 ul.big-btns li a.btn-g{
 	background: #FFF;
-	border: 2px solid #98D361;
-	color: #98D361;
+	border: 2px solid #f39c12;
+	color: #f39c12;
 	display: inline-block;
 }
 ul.big-btns li a.btn-g:hover{
-	background:#B9B9B9;
+	background:#f39c12;
 	border:2px solid #B9B9B9;
 	color:#FFF;
 }
@@ -862,6 +862,3 @@ ul.usefull-for li a.u-windows span:hover{
 		margin: 0em auto 1em;
 	}
 }
-
-
-
